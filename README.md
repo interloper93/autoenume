@@ -10,6 +10,17 @@ AutoEnum is a reconnaissance and enumeration helper script designed to automate 
 ```bash
 python3 autoenum.py <target>
 
+```
+
+## Example
+$ python3 autoenum.py 10.10.10.1
+
+[+] Running nmap on 10.10.10.1...
+
+[+] Open Ports Found:
+  22/tcp → ssh
+  80/tcp → http
+
 
 ---
 
