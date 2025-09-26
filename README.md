@@ -9,3 +9,15 @@ AutoEnum is a reconnaissance and enumeration helper script designed to automate 
 ## Usage
 ```bash
 python3 autoenum.py <target>
+
+
+---
+
+- [ ] Run directory brute-forcing (gobuster/ffuf) if HTTP detected  
+- [ ] SMB enumeration if port 445 open  
+- [ ] Auto-generate Markdown/HTML report  
+- [ ] Add multi-target support  
+- [ ] Parallel scans for speed    
+
+---
+
