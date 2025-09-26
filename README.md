@@ -13,6 +13,7 @@ python3 autoenum.py <target>
 
 ---
 
+### Plans for Future Features
 - [ ] Run directory brute-forcing (gobuster/ffuf) if HTTP detected  
 - [ ] SMB enumeration if port 445 open  
 - [ ] Auto-generate Markdown/HTML report  
