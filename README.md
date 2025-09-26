@@ -1,4 +1,4 @@
-# AutoEnum
+# autoenum
 
 AutoEnum is a reconnaissance and enumeration helper script designed to automate common steps during penetration tests.
 
